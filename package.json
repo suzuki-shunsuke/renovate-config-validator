@@ -1,7 +1,7 @@
 {
   "name": "@suzuki-shunsuke/renovate-config-validator",
   "version": "0.0.0",
-  "description": "renovate-config-validator bundled into a single file with no dependencies, for fast installation",
+  "description": "renovate-config-validator bundled into a single file for fast installation",
   "license": "AGPL-3.0-only",
   "type": "module",
   "bin": {
