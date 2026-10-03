@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "github>suzuki-shunsuke/renovate-config#4.0.0",
+    "github>suzuki-shunsuke/renovate-config:nolimit#4.0.0"
+  ],
+  "packageRules": [
+    {
+      "description": "renovate is updated by the publish workflow",
+      "matchPackageNames": ["renovate"],
+      "enabled": false
+    }
+  ]
+}

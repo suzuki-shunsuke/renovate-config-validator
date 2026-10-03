@@ -1,0 +1,1 @@
+{"packageRules":[{"matchPackageNames":["/^foo(?!bar)/"],"enabled":false}]}
