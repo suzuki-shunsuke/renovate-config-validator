@@ -30,6 +30,6 @@
     "renovate": "44.125.1"
   },
   "optionalDependencies": {
-    "re2": "1.27.0"
+    "re2": "1.27.1"
   }
 }
